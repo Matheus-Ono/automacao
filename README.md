@@ -1,1 +1,1 @@
-
+This is a project I implemented for task automation using Python libraries: PyAutoGUI, Pandas, and Time. Its purpose is to access an online system and register a database of products (CSV) in that system.
